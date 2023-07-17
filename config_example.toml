@@ -1,0 +1,5 @@
+base_url = "https://ws.generals.io"
+nbk = "sd09fjd203i0ejwi"
+
+[rooms]
+"161" = { 0 = 2, 6 = 1, 13 = 3 } # 2 Bots joins without selecting team, 1 Bot Team 6 and 3 Bots Spectators in room `161`
